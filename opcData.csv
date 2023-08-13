@@ -1,5 +1,5 @@
 #group,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
-#datatype,string,long,dateTime:RFC3339,int,dateTime:RFC3339,double,string,string
+#datatype,string,long,dateTime:RFC3339,integer,dateTime:RFC3339,double,string,string
 #default,mean,,,,,,,
 ,,,Timestamp,CounterValue,,,,
 ,,,49:28.5,3,,,,
