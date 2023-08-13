@@ -1,0 +1,8 @@
+#group,FALSE,FALSE,FALSE,TRUE,TRUE
+#datatype,string,dateTime:RFC3339,double,string,string
+#default,mean,,,,
+,result,_time,_value,_field,_measurement
+,,2023-08-13T20:14:40Z,0,counter,boltdb_reads_total
+,,2023-08-13T20:14:42Z,2,counter,boltdb_reads_total
+,,2023-08-13T20:14:44Z,4,counter,boltdb_reads_total
+,,2023-08-13T20:14:46Z,6,counter,boltdb_reads_total
